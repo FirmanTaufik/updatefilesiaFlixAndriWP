@@ -1,9 +1,9 @@
 {
   "verison": "1.0",
   "link_update": "https://www.youtube.com/",
-  "sdk_key": "Z6GZxclQHzwOXpKCAOtrMwpTIfvpTrbJ8sTMrQbgN7OQrUisLtsUCZctO1OpD7gtuyCKT7fdmJio4B2ZcLGO1y",
-  "banner": "3e63d4d7aa5056ae",
-  "interstitial": "4f74d2033afb2183",
-  "interstitial_interval": 3,
+  "sdk_key": "XrQNR1fFZJoeJfN4DgkFqU9NJlg8F5TkJ1yBTc8CfS4EkdndXfkPXB7d8pkBm_gUrE7GrCU3DB7zXGJtqNmQ1n",
+  "banner": "b6ef6224441c904d",
+  "interstitial": "6f8d4ca57a04b105",
+  "interstitial_interval": 2,
   "maintenance": "0"
 }
